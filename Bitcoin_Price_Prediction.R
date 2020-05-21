@@ -1,6 +1,6 @@
 #Configura o diretório de trabalho
 getwd()
-setwd("C:/Users/gusta/Desktop/P_Projects/TemporalSeries/Bitcoin")
+setwd("/your_path_to_file/")
 
 #Carrega as bibliotecas necessarias
 library(lubridate)
